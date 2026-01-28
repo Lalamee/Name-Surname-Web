@@ -58,7 +58,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://t.me/easypro_channel" target="_blank">
-  <img src="https://easypro.academy/_next/image?url=%2Fimg%2Fdifferent%2Ftelegram.webp&w=32&q=75" width="45" alt="Telegram"/>
+  <img src="	https://easypro.academy/image/picture/vk.svg" width="45" alt="Telegram"/>
 </a>
 
 </div>
